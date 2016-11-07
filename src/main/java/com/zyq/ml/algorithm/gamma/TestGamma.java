@@ -129,7 +129,6 @@ public class TestGamma {
 					break;
 				case 4:
 					preResult[k]= 0.0;
-					name ="Arima+Gamma：";
 					break;
 				default:
 					break;
